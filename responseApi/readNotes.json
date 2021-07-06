@@ -1,0 +1,9 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": [{
+        "title": "Lorem ipsum apsum tenyaho",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure, quos.",
+        "tags": ["Hello", "World"]
+    }]
+}
