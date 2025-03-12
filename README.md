@@ -1,5 +1,5 @@
 # API Spec
-## Create Note
+## Create Note.
 
 Request :
 - Method : POST
